@@ -30,3 +30,7 @@ fp-info-cache
 *.log
 *.plt
 *.raw
+
+# SketchUp Backups
+*.skb
+*AutoSave_*.skp
