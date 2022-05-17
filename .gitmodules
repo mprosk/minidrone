@@ -1,0 +1,3 @@
+[submodule "kosmo-lib"]
+	path = kosmo-lib
+	url = git@github.com:mprosk/kosmo-lib.git
