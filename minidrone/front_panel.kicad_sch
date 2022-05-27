@@ -2,7 +2,14 @@
 
   (uuid 756980f3-04da-4b43-aedb-59e470c03936)
 
-  (paper "A4")
+  (paper "USLetter")
+
+  (title_block
+    (title "Front Panel")
+    (date "2022-05-27")
+    (rev "0.1")
+    (company "Max Proskauer")
+  )
 
   (lib_symbols
     (symbol "Connector_Generic:Conn_01x02" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
