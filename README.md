@@ -1,10 +1,10 @@
 # Minidrone
 
+![Minidrone](img/minidrone.jpg)
+
 Minidrone is a drone module with a built in Attack/Release amp envelope. It contains five sawtooth oscillators each with individual pitch control and an enable switch. A master pitch control can adjust the tuning of all voices at once. 
 
 Loosely inspired on the Elta Music Solar50
-
-This implementation is focused around 
 
 
 
